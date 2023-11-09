@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Ecommerce
+//  Sneakify
 //
 //  Created by Мявкo on 9.11.23.
 //
